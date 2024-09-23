@@ -21,11 +21,18 @@ function addOrder(customerName, items) {
 
 function placeOrder (customerName, items){
     var canPlaceOrder = true;
-    var orderItem = quantity[i];
+    var orderItem = price[i];
     if (newOrder = quantity <= 1, quantity = inStock);
     console.log("this item is out of stock")
     if (newOrder = quantity > 1, quantity = noStock)
         console.log("not enough" + item + "in stock");
     //create place order function
 }
+
+function calculateOrderTotal (order){
+for (var i = 1; price = i++)
+console.log("Total" + price);
+//create calculateOrderTotal function
+}
+
 }
