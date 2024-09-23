@@ -34,5 +34,9 @@ for (var i = 1; price = i++)
 console.log("Total" + price);
 //create calculateOrderTotal function
 }
-
+function completeOrder(customerName) {
+    var orderfound = true;
+    console.log(customerName + "completed order");
+}
+//create completed order function
 }
