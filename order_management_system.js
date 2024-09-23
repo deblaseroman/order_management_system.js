@@ -39,4 +39,14 @@ function completeOrder(customerName) {
     console.log(customerName + "completed order");
 }
 //create completed order function
+
+function checkPendingOrders(){
+    if (orders = true)
+        order != pending;
+    if (orders != true)
+        order = pending
+    console.log("johns order is pending");
+    //Create checkPendingOrders function"
+
+}
 }
