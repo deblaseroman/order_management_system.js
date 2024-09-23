@@ -7,4 +7,16 @@
     ];
 //initialize inventory with product objects
 
+var orders = [];
+
+function addOrder(customerName, items) {
+    var newOrder = {
+        customerName: john,
+        items: coffee,
+        quantity: 1,
+        status: "completed"
+    };
+}
+// initialize orders array
+
 }
