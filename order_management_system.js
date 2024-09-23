@@ -19,4 +19,13 @@ function addOrder(customerName, items) {
 }
 // initialize orders array
 
+function placeOrder (customerName, items){
+    var canPlaceOrder = true;
+    var orderItem = quantity[i];
+    if (newOrder = quantity <= 1, quantity = inStock);
+    console.log("this item is out of stock")
+    if (newOrder = quantity > 1, quantity = noStock)
+        console.log("not enough" + item + "in stock");
+    //create place order function
+}
 }
